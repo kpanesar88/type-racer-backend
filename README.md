@@ -36,7 +36,9 @@ To compile and run this project, you need the following:
    git clone https://github.com/yourusername/typeracer-game.git
    cd typeracer-game
 
+## Resources
+- cURL Library: [cURL](https://curl.se/libcurl/)
+- Corporate Generator Free API: [Corporate Generator](https://corporatebs-generator.sameerkumar.website)
+- No File or Directory Found Solution: [Youtube](https://www.youtube.com/watch?v=y9MLOQxksbQ)
 
-(API USED TO GENERATE RANDOMIZED TEXT: https://corporatebs-generator.sameerkumar.website )
 
-Thank You.
