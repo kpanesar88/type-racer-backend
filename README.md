@@ -35,3 +35,8 @@ To compile and run this project, you need the following:
    ```bash
    git clone https://github.com/yourusername/typeracer-game.git
    cd typeracer-game
+
+
+(API USED TO GENERATE RANDOMIZED TEXT: https://corporatebs-generator.sameerkumar.website )
+
+Thank You.
